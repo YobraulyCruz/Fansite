@@ -1,0 +1,93 @@
+body{
+			background-image: url("https://overwatch.ingame.de/files/2015/11/Dorado_006.jpg");
+		}
+		h1{
+			color:orange;
+			text-align: center;
+			font-size:70px;
+		}
+		h2{
+		font-size:35px;
+		color:white;
+	}
+	p{
+		font-size: 30px;
+		text-align: left;
+		color:orange;
+	}
+		#nav{
+		display: flex;
+		white-space:nowrap;
+		text-align:center; 
+		justify-content: space-around;
+		font-family: 'Roboto', sans-serif;
+		color: black;
+	}
+	a{
+		color:orange;
+	}
+	#nav a{
+		color:orange;
+		font-size: 20px;
+	}
+	#nav a:hover{
+		color:grey;
+	}
+	#banner{
+		text-align: center;
+		margin: 0 auto;
+		padding: 1px;
+	}
+	#footer{
+		color:orange;
+		text-align:center;
+	}
+		#wrapper1{
+			display:flex;
+			
+			background-color: black;
+			text-align: left;
+			margin-left: 100px;
+			margin-right: 100px;
+			padding: 25px;
+		}
+		#wrapper2{
+			display:flex;
+			
+			background-color: black;
+			text-align: left;
+			margin-left: 100px;
+			margin-right: 100px;
+			padding: 25px;
+		}
+		#wrapper3{
+			display:flex;
+
+			background-color: black;
+			text-align: left;
+			margin-left: 100px;
+			margin-right: 100px;
+			padding: 25px;
+		}
+		#mykli{
+			width:35%;
+			margin-left: 150px;
+			margin-top: 5px;
+		}
+		#myklt{
+			width:65%;
+		}
+		#text{
+			width:65%;
+		}
+		#image{
+			width:35%;
+			margin-left: 200px;
+		}
+		#halot{
+			width:65%;
+		}
+		#haloi{
+			width:35%;
+			margin-left: 150px;
+		}

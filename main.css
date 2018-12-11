@@ -1,0 +1,117 @@
+#banner{
+		border: 10px solid orange;
+		text-align: center;
+		margin: 0 auto;
+		padding: 1px;
+		background-color:#808080;
+	}
+	#nav{
+		display: flex;
+		white-space:nowrap;
+		text-align:center; 
+		justify-content: space-around;
+		font-family: 'Roboto', sans-serif;
+		color: black;
+	}
+	#wrapper{
+		display: flex;
+		width:100%;
+	}
+	#wrapper1{
+		display: flex;
+		width:100%;
+		justify-content: space-between;
+		padding-top:100px;
+	}
+	#wrapper2{
+		display: flex;
+		padding-top:100px;
+		padding-left: 240px;
+		padding-right: 175px;
+		justify-content: space-around;
+	}
+	#main{
+		width: 70%;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	#side{
+		width:30%;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	#siden{
+		width:30%;
+		margin-left: 150px;
+		
+	}
+	#footer{
+		width: 100%;
+		text-align: center;
+		color:orange;
+		font-family: 'Roboto', sans-serif;
+		text-transform: uppercase;
+		margin-top: 50px;
+	}
+	#nav a{
+		color:orange;
+		font-size:20px;
+	}
+	#nav a:hover{
+		color:grey;
+	}
+	body{
+		font-family:font-family: 'Roboto', sans-serif;
+	}
+	h1{
+		font-size: 70px;
+		text-align:center;
+		color:black;
+	}
+	p{
+		font-size:35px;
+		color:orange;
+		text-align: center;
+
+	}
+	h2{
+		font-size: 35px;
+		text-align: center;
+		color: black;
+		
+	}
+	.tracer{
+		float:right;
+		margin-right:100px;
+		margin-top:100px;
+	}
+	.kings{
+		background-image:url("https://vignette.wikia.nocookie.net/overwatch/images/2/21/Kingsrow_screenshot_8.png/revision/latest/scale-to-width-down/2000?cb=20160711195544");
+	}
+	.hana{
+		background-image:url("https://snapsbox.com/images/2017/01/19/hanamura-overwatch-map-cherry_blossom-935.jpg");
+	}
+	.dora{
+		width:100%;
+		background-image:url("http://vignette4.wikia.nocookie.net/overwatch/images/7/7d/Ilios_screenshot_1.png");
+	}
+.et{
+	margin-right: 175px;
+	color:orange;
+}
+.nyxl{
+	background-image:url("https://i.imgur.com/shptzIZ.png");
+}
+.xl2{
+	margin-left: 50px;
+}
+.xl3{
+	margin-top: 50px;
+	margin-left: 25px;
+}
+.dab{
+	background-image: url("http://overwatch3d.com/wp-content/uploads/2016/12/temple-of-anubis.jpg");
+}
+.index{
+	background-image: url("https://cdn-b-east.streamable.com/image/2w9a5.jpg?token=Bax-y7AQdEbtjqRF2QaaBw&expires=1543717665");
+}
